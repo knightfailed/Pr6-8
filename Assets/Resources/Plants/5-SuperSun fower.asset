@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59044efce59e97542aac259f6d986899, type: 3}
+  m_Name: 5-SuperSun fower
+  m_EditorClassIdentifier: 
+  plantName: Super Sun fower
+  plantStages:
+  - {fileID: -2018193462, guid: 245a3b2ed8cebaa41b798b33c7beba72, type: 3}
+  - {fileID: 424344985, guid: 245a3b2ed8cebaa41b798b33c7beba72, type: 3}
+  - {fileID: -128551664, guid: 245a3b2ed8cebaa41b798b33c7beba72, type: 3}
+  - {fileID: -1198696913, guid: 245a3b2ed8cebaa41b798b33c7beba72, type: 3}
+  timeBtwStages: 9
+  buyPrice: 35
+  sellPrice: 60
+  icon: {fileID: 104442064, guid: 245a3b2ed8cebaa41b798b33c7beba72, type: 3}
+  dryPlanted: {fileID: -328502208, guid: 5c3e9efaf81758847bdb7bcce60871ab, type: 3}

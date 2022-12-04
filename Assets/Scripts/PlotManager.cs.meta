@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3e305d4f1a54644a8cc4e13dad35ff7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - drySpritePlot: {fileID: 1102727950, guid: 245a3b2ed8cebaa41b798b33c7beba72, type: 3}
+  - normalSpritePlot: {fileID: -1174060497, guid: 5c3e9efaf81758847bdb7bcce60871ab, type: 3}
+  - unavailableSprite: {fileID: -83703761, guid: 5c3e9efaf81758847bdb7bcce60871ab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
